@@ -1,0 +1,3 @@
+Automated script for finding best position of solar collector using geolocation.
+
+Detailed description soon...
